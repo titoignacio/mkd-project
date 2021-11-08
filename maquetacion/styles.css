@@ -1,4 +1,9 @@
 .jumbotron{
 
+    background-image: url(img/image-1.jpg);
+    background-size: cover;
+    background-position: 40%;
+    height: 70vh;
+    
     
 }
