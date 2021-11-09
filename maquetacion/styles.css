@@ -18,8 +18,32 @@
   
   }
 
+  .testimonial{
+
+    display: flex;
+    justify-content: center;
+  }
+
   .titulo{
     font-size: 40px;
+    font-weight: bold;
+    color: #0069d9;
+    text-align: center;
+    margin-bottom: 30px;
+    text-shadow: 0px 0px 10px white;
+  }
+
+  .mkd{
+      display: flex;
+      justify-content: center;
+      width: 100%;
+      margin-top: 30px;
+
+
+  }
+
+  .subtitle{
+    font-size: 20px;
     font-weight: bold;
     color: #0069d9;
     text-align: center;
