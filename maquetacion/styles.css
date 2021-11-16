@@ -8,6 +8,35 @@
     
 }
 
+.botones{
+
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  
+
+}
+
+.boton1{
+
+  margin: 40px;
+  padding: 20px;
+  
+  
+}
+
+.boton2{
+
+  margin: 40px;
+  padding: 20px;
+}
+
+.boton3{
+
+  margin: 40px;
+  padding: 20px;
+}
+
 #testimonial{
 
     background: rgb(255,255,255);
