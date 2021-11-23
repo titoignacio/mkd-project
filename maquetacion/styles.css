@@ -34,6 +34,14 @@
 	margin-top:16px;
 }
 
+.as{
+
+  
+  width: 190px;
+  height: 190px;
+
+}
+
 .cm{
   width: 190;
   height: 190px;
@@ -45,9 +53,17 @@
 }
 
 
-.btn{
+h5{
 
-  align-items: center;
+  text-align: center;
+}
+
+.boton{
+
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+
 }
 
 .done{
