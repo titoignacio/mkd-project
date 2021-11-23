@@ -8,6 +8,16 @@
     
 }
 
+.cm{
+  width: 100%;
+  height: 230px;
+}
+
+.dg{
+  width: auto;
+  height: 230px;
+}
+
 .botones{
 
   display: flex;
