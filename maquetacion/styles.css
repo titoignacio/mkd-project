@@ -218,6 +218,12 @@ h5{
 
       font-size: 9px;
     }
+
+    .logo-footer{
+
+      width: 180px;
+      height: 110px;
+    }
    
 
   }
@@ -233,6 +239,12 @@ h5{
     .lead{
 
       font-size: 5px;
+    }
+
+    .logo-footer{
+
+      width: 100px;
+      height: 80px;
     }
     
   }
