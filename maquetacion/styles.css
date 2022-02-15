@@ -164,6 +164,23 @@ h5{
     text-shadow: 0px 0px 10px white;
   }
 
+  .logo-ig{
+
+    width: 40px;
+    height: auto;
+    margin-left: 20px;
+    transition: all 300ms;
+    
+  }
+
+  .logo-ig:hover{
+
+    width: 50px;
+    height: auto;
+    
+    
+  }
+
   .footer{
 
     display: flex;
@@ -256,6 +273,15 @@ h5{
 
       font-size: 18px;
     }
+    .logo-ig{
+
+      width: 20px;
+      height: auto;
+      visibility: hidden;
+      
+     
+    }
+
   }
 
   @media only screen and (max-width: 601px) {
