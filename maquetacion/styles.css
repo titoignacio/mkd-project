@@ -14,24 +14,28 @@
 
 .card1{
 
+  width: 380px;
   margin-left: 70px;
   
 }
 
 .card2{
 
+  width: 380px;
   margin-left: 70px;
   
 }
 
 .card3{
 
+  width: 380px;
   margin-left: 70px;
   
 }
 
 .card4{
 
+  width: 380px;
   margin-left: 70px;
   
 }
@@ -377,24 +381,28 @@ h5{
 
     .card1{
 
+      width: 18rem;
       margin: 1px
       
     }
     
     .card2{
     
+      width: 18rem;
       margin: 1px
       
     }
     
     .card3{
     
+      width: 18rem;
       margin: 1px
       
     }
     
     .card4{
     
+      width: 18rem;
       margin: 1px
       
     }
