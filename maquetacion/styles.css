@@ -10,6 +10,32 @@
     
 }
 
+/*cards*/
+
+.card1{
+
+  margin-left: 70px;
+  
+}
+
+.card2{
+
+  margin-left: 70px;
+  
+}
+
+.card3{
+
+  margin-left: 70px;
+  
+}
+
+.card4{
+
+  margin-left: 70px;
+  
+}
+
 .float{
 	position:fixed;
 	width:60px;
@@ -345,6 +371,36 @@ h5{
     }
    
 
+  }
+
+  @media only screen and (max-width: 470px) {
+
+    .card1{
+
+      margin: 1px
+      
+    }
+    
+    .card2{
+    
+      margin: 1px
+      
+    }
+    
+    .card3{
+    
+      margin: 1px
+      
+    }
+    
+    .card4{
+    
+      margin: 1px
+      
+    }
+
+    
+    
   }
 
 
